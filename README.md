@@ -7,6 +7,9 @@ A Tagalog/Filipino g2p phonemizer for OpenUTAU for Diffsinger
  
 ## 【 Information 】 
 
+The Diffsinger Tagalog/Filipino Phonemizer was developed to support standardized Tagalog (Filipino). 
+Theoretically, it could support other languages in the Philippines (Ilokano, Cebuano, etc.) and other Malayo-Polynesian languages (like Indonesian) with similar pronunciation.
+
 | Data | Information | 
 | ---  | --- |
 | Graphemes | 28 |
@@ -32,8 +35,6 @@ The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://githu
 | tigermeat | G2P training help |
 
 ## 【 How To Use 】 
-
-Below is a guide on how to use the Diffsinger FIlipino Phonemizer.
 
 ## Words are pronounced how it is written.
 
