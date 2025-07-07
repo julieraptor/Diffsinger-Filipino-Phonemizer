@@ -29,4 +29,5 @@ The language is generally pattern-based. Therefore,
 <p align=center>
 ![image](https://github.com/user-attachments/assets/2da7e171-e470-4cb3-baa4-86a0fe83da10)
 ![image](https://github.com/user-attachments/assets/409ac355-4859-4b55-aaeb-43e40f561cd0)
-![image](https://github.com/user-attachments/assets/7d82ba7a-d558-43ce-a88d-c7be897c0237)</center>
+![image](https://github.com/user-attachments/assets/7d82ba7a-d558-43ce-a88d-c7be897c0237)
+</center>
