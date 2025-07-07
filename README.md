@@ -21,16 +21,10 @@ Theoretically, it could support other languages in the Philippines (Ilokano, Ceb
 | Name | Role | 
 | ---  | --- |
 | julieraptor | Developer, model trainer |
-| Hammy | Python tool development for dictionary separation |
+
+Special thanks to Hammy , my partner, for Python tool development for dictionary separation.
 
 The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
-
-### Special Thanks
-
-| Name | Role | 
-| ---  | --- |
-| Cadlaxa | Phonemizer testing |
-| tigermeat | G2P training help |
 
 ## 【 How To Use 】 
 
