@@ -22,7 +22,7 @@ Theoretically, it could support other languages in the Philippines (Ilokano, Ceb
 | ---  | --- |
 | julieraptor | Developer, model trainer |
 
-Special thanks to Hammy , my partner, for Python tool development for dictionary separation.
+Special thanks to Hammy (my partner) for Python tool development for dictionary separation.
 
 The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
 
