@@ -24,13 +24,17 @@ Theoretically, it could support other languages in the Philippines (Ilokano, Ceb
 
 Special thanks to Hammy (my partner) for Python tool development for dictionary separation.
 
-The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
+The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
 
 ## 【 How To Use 】 
 
 ## Words are pronounced how it is written.
 
-The language is generally pattern-based. Therefore, 
+The language is generally pattern-based. Therefore, it will follow these rules:
+
+- Dipthongs are separated by character
+- Glottal stops are inserted
+- - Before a vowel, if the word starts with a vowel.
 
 ### Glottal stops are generated:
 
