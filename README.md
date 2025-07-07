@@ -21,6 +21,8 @@ A Tagalog/Filipino g2p phonemizer for OpenUTAU for Diffsinger
 | Phoneme | 30 |
 | Word Entries | 24765 |
 
+The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
+
 ### Special Thanks
 
 | Name | Role | 
