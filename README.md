@@ -21,8 +21,7 @@ Theoretically, it could support other languages in the Philippines (Ilokano, Ceb
 | Name | Role | 
 | ---  | --- |
 | julieraptor | Developer, model trainer |
-| Phoneme | 30 |
-| Word Entries | 24765 |
+| Hammy | Python tool development for dictionary separation |
 
 The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
 
@@ -30,7 +29,6 @@ The dictionary was soured heavily from [CUNY Wikipron for Tagalog](https://githu
 
 | Name | Role | 
 | ---  | --- |
-| Hammy | Python tool development for dictionary separation |
 | Cadlaxa | Phonemizer testing |
 | tigermeat | G2P training help |
 
