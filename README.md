@@ -13,6 +13,22 @@ A Tagalog/Filipino g2p phonemizer for OpenUTAU for Diffsinger
 | Phonemes | 30 |
 | Word Entries | 24765 |
 
+## 【 Credits 】 
+
+| Name | Role | 
+| ---  | --- |
+| julieraptor | Developer, model trainer |
+| Phoneme | 30 |
+| Word Entries | 24765 |
+
+### Special Thanks
+
+| Name | Role | 
+| ---  | --- |
+| Hammy | Python tool development for dictionary separation |
+| Cadlaxa | Phonemizer testing |
+| tigermeat | G2P training help |
+
 ## 【 How To Use 】 
 
 Below is a guide on how to use the Diffsinger FIlipino Phonemizer.
