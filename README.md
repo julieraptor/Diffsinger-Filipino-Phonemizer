@@ -33,6 +33,7 @@ Dipthongs are separated into two characters.
 
 **Examples:**
 [AY] -> [A Y] ([A J] in the g2p)
+<br>
 [OU] -> [O U]
 
 #### Glottal stops
