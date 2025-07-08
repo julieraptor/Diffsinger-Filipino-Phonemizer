@@ -3,7 +3,13 @@
  
 ## 【 Information 】 
 
-The Diffsinger Tagalog/Filipino Phonemizer was developed to support standardized Tagalog (Filipino). 
+### Purpose
+The Diffsinger Tagalog/Filipino Phonemizer was developed to support standardized Tagalog (Filipino) for Diffsinger voice databases using G2P (grapheme to phoneme). 
+
+<p align="center">
+<img src ="https://github.com/user-attachments/assets/ea823abb-4068-4c8d-b465-310d4951154a"><br>
+<i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
+</p>
 
 Theoretically, it could support other languages in the Philippines (Ilokano, Cebuano, etc.) and other Malayo-Polynesian languages (like Indonesian) with similar pronunciation.
 
