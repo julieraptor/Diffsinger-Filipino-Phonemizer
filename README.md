@@ -71,7 +71,9 @@ For example, English words will be pronounced syllabically instead of being pron
 | ---  | --- | --- | --- | --- |
 | BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I DX TH D A J | bɪrθdaɪ | B IY R TH D AY
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
+
 <p align="center">
+ 
 ![image](https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 
@@ -91,7 +93,9 @@ Dipthongs are not combined. They are separated into two characters.
 <br>
 - aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
+  
 <p align="center">
+ 
 ![image](https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c)
 </p>
 
@@ -105,6 +109,7 @@ Glottal stops are inserted depending on certain conditions:
    - By adding ['] at the end of a word ending with a vowel.
 
 <p align="center">
+ 
 ![image](https://github.com/user-attachments/assets/18a1e305-b01d-4f47-8d33-b0d5fec20f19)
 </p>
 
@@ -116,7 +121,9 @@ Consistent with Filipino pronunciation, words containing the phoneme [ll] will b
 ### If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
 <br>
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
+
 <p align="center">
+ 
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 </p>
@@ -129,6 +136,7 @@ By default, words starting with a vowel begin with a glottal stop.
 ### If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
 
 <p align="center">
+ 
 ![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 </p>
