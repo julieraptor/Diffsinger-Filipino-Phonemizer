@@ -67,17 +67,17 @@ For example, English words will be pronounced syllabically instead of being pron
 
 | Word | Usual pronunciation (IPA/ARPA) | G2P separation | G2P Pron. (IPA) | G2P Pron. (Arpabet)
 | ---  | --- | --- | --- | --- |
-| BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I R TH D A J | bɪərθdaɪ | B IY R TH D AY
-| CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I R M A R | bɪərθdaɪ | B IY R TH D AY
+| BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I DX TH D A J | bɪrθdaɪ | B IY R TH D AY
+| CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
 
 ### Dipthongs
 Dipthongs are separated into two characters.
 
 **Examples:**
 <br>
-[AY] -> [A J] in the g2p)
+aɪ [AY] -> [A J] in the g2p)
 <br>
-[OU] -> [O U]
+oʊ [OU] -> [O U]
 
 ### Glottal stops
 Glottal stops are inserted depending on certain conditions:
