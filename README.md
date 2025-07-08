@@ -71,7 +71,10 @@ For example, English words will be pronounced syllabically instead of being pron
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
 
 ![image](https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5)
+*Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
+
 ![image](https://github.com/user-attachments/assets/28068cdd-77a1-4c02-86da-89b941c4559b)
+*Example with G2P subsituted with Nishiren's Arpasing-based configuration*
 
 
 ### Dipthongs
