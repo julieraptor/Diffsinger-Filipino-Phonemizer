@@ -75,7 +75,7 @@ Dipthongs are not combined. They are separated into two characters.
 
 **Examples:**
 <br>
-- aɪ [AY] -> [A J] in the g2p)
+- aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
 
 ### Glottal stops
