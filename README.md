@@ -78,6 +78,10 @@ Dipthongs are not combined. They are separated into two characters.
 - aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
 
+![image](https://github.com/user-attachments/assets/d054ac68-5b56-4b1f-baf2-d4ab6cd77256)
+![image](https://github.com/user-attachments/assets/0b6686f9-1549-4424-8700-7a4e05ac4820)
+
+
 ### Glottal stops
 Glottal stops are inserted depending on certain conditions:
    - Before a vowel, if the word starts with a vowel.
@@ -86,4 +90,19 @@ Glottal stops are inserted depending on certain conditions:
    - By adding ['] in between vowels
      - **Example:** AALIS -> [Q A Q A L I S], INIIBIG -> [Q I N I Q I B I H]
    - By adding ['] at the end of a word ending with a vowel.
+
+![image](https://github.com/user-attachments/assets/18a1e305-b01d-4f47-8d33-b0d5fec20f19)
+
+     
+### [ll] becomes [L J]
+
+Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
+
+If you do not want the word to follow the Filipino pronunciation, substitule [l] for [y] when spelling the word.
+**Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
+
+![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
+
+
+
 
