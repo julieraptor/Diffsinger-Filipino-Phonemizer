@@ -74,13 +74,15 @@ For example, English words will be pronounced syllabically instead of being pron
 
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5"><br>
-*Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
+ 
+<i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 
 <img src ="https://github.com/user-attachments/assets/ce8c2032-230f-4589-9ff0-b72515fd413b"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 
 ### To get the desired spelling, you may have to write the word how it should be pronounced.
 <img src ="https://github.com/user-attachments/assets/03ee3f4f-8717-4f0c-ad56-eeaf553d1085"><br>
+
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 </p>
 
@@ -94,6 +96,7 @@ Dipthongs are not combined. They are separated into two characters.
   
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c"><br>
+ 
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
@@ -123,6 +126,7 @@ Consistent with Filipino pronunciation, words containing the phoneme [ll] will b
 
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774"><br>
+ 
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
@@ -135,6 +139,7 @@ By default, words starting with a vowel begin with a glottal stop.
 
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7"><br>
+ 
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
