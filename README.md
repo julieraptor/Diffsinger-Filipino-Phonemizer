@@ -73,7 +73,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 Follow this guide to learn how to use the Diffsinger Filipino Phonemizer.
 
-## Words are pronounced how it is spelled.
+### Words are pronounced how it is spelled.
 
 The g2p doesn't account for unique pronunciations of words in other languages.
 <p>
@@ -103,7 +103,7 @@ A tip is to write the word syllabically.
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 </p>
 
-## Dipthongs
+### Dipthongs
 Dipthongs are not combined. They are separated into two characters.
 
 **Examples:**
@@ -116,7 +116,7 @@ Dipthongs are not combined. They are separated into two characters.
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
-## Glottal stops
+### Glottal stops
 Glottal stops are inserted depending on certain conditions:
    - Before a vowel, if the word starts with a vowel.
    - Between two consecutive of the same vowel.
@@ -131,7 +131,7 @@ Glottal stops are inserted depending on certain conditions:
 </p>
 
      
-## [ll] becomes [L J]
+### [ll] becomes [L J]
 
 Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
 
@@ -144,8 +144,7 @@ Consistent with Filipino pronunciation, words containing the phoneme [ll] will b
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
-
-## Omit glottal stop before a word starting with a vowel.
+### I want to omit the glottal stop before a word starting with a vowel.
 
 By default, words starting with a vowel begin with a glottal stop.
 <br>
