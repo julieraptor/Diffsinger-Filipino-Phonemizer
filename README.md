@@ -78,9 +78,7 @@ Dipthongs are not combined. They are separated into two characters.
 - aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
 
-![image](https://github.com/user-attachments/assets/d054ac68-5b56-4b1f-baf2-d4ab6cd77256)
 ![image](https://github.com/user-attachments/assets/0b6686f9-1549-4424-8700-7a4e05ac4820)
-
 
 ### Glottal stops
 Glottal stops are inserted depending on certain conditions:
