@@ -115,6 +115,8 @@ Consistent with Filipino pronunciation, words containing the phoneme [ll] will b
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
 
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
+*Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
+
 
 
 ## Omit glottal stop before a word starting with a vowel.
@@ -124,6 +126,8 @@ By default, words starting with a vowel begin with a glottal stop.
 ### If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
 
 ![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
+*Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
+
 
 # Disclaimer
 - julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the phonemizer.
