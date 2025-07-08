@@ -135,10 +135,10 @@ Glottal stops are inserted depending on certain conditions:
 
 Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
 
-**If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
-**<br>
+<br>If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
+<br>
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
-
+<br>
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774"><br>
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
