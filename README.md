@@ -59,7 +59,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 # Usage
 
-### The language is generally pattern-based. 
+## The language is generally pattern-based. 
 
 The g2p doesn't account for unique pronunciations of words in other languages.
 <p>
@@ -77,7 +77,7 @@ For example, English words will be pronounced syllabically instead of being pron
 *Example with G2P subsituted with Nishiren's Arpasing-based configuration*
 
 
-### Dipthongs
+## Dipthongs
 Dipthongs are not combined. They are separated into two characters.
 
 **Examples:**
@@ -87,7 +87,7 @@ Dipthongs are not combined. They are separated into two characters.
 
 ![image](https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c)
 
-### Glottal stops
+## Glottal stops
 Glottal stops are inserted depending on certain conditions:
    - Before a vowel, if the word starts with a vowel.
    - Between two consecutive of the same vowel.
@@ -99,7 +99,7 @@ Glottal stops are inserted depending on certain conditions:
 ![image](https://github.com/user-attachments/assets/18a1e305-b01d-4f47-8d33-b0d5fec20f19)
 
      
-### [ll] becomes [L J]
+## [ll] becomes [L J]
 
 Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
 
@@ -110,7 +110,7 @@ If you do not want the word to follow the Filipino pronunciation, substitute [l]
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
 
 
-### Omit glottal stop before a word starting with a vowel.
+## Omit glottal stop before a word starting with a vowel.
 
 By default, words starting with a vowel begin with a glottal stop.
 <br>
