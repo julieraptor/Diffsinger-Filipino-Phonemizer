@@ -70,6 +70,10 @@ For example, English words will be pronounced syllabically instead of being pron
 | BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I DX TH D A J | bɪrθdaɪ | B IY R TH D AY
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
 
+![image](https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5)
+![image](https://github.com/user-attachments/assets/28068cdd-77a1-4c02-86da-89b941c4559b)
+
+
 ### Dipthongs
 Dipthongs are not combined. They are separated into two characters.
 
