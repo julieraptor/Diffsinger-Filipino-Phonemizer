@@ -103,6 +103,13 @@ If you do not want the word to follow the Filipino pronunciation, substitule [l]
 
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
 
+### Omit glottal stop before a word starting with a vowel.
+
+By default, words starting with a vowel begin with a glottal stop.
+<br>
+If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
+
+![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
 
 
 
