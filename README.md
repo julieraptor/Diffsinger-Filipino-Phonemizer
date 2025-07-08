@@ -71,13 +71,12 @@ For example, English words will be pronounced syllabically instead of being pron
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
 
 ### Dipthongs
-Dipthongs are separated into two characters.
+Dipthongs are not combined. They are separated into two characters.
 
 **Examples:**
 <br>
-aɪ [AY] -> [A J] in the g2p)
-<br>
-oʊ [OU] -> [O U]
+- aɪ [AY] -> [A J] in the g2p)
+- oʊ [OU] -> [O U]
 
 ### Glottal stops
 Glottal stops are inserted depending on certain conditions:
