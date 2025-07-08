@@ -109,8 +109,8 @@ Glottal stops are inserted depending on certain conditions:
    - By adding ['] at the end of a word ending with a vowel.
 
 <p align="center">
- 
 ![image](https://github.com/user-attachments/assets/18a1e305-b01d-4f47-8d33-b0d5fec20f19)
+*Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 </p>
 
      
