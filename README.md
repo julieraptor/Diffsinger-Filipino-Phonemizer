@@ -1,9 +1,5 @@
 # DiffsingerFilipinoPhonemizer
-A Tagalog/Filipino g2p phonemizer for OpenUTAU for Diffsinger
-
-# THIS PAGE IS A WORK-IN-PROGRESS
-
-<p align=center>🎵 Gusto kong makita ang mundo ay magkakasama kung boses ko lamang 🎶</center>
+*A Tagalog/Filipino g2p phonemizer for OpenUTAU for Diffsinger*
  
 ## 【 Information 】 
 
@@ -28,21 +24,18 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 ## 【 How To Use 】 
 
-## Words are pronounced how it is written.
+### Words are pronounced how it is written.
 
 The language is generally pattern-based. Therefore, it will follow these rules:
 
-- Dipthongs are separated by character
-- Glottal stops are inserted
-- - Before a vowel, if the word starts with a vowel.
+#### Dipthongs are separated by character
 
-### Glottal stops are generated:
+#### Glottal stops are inserted depending on certain conditions
+    - If the word is pronounced with a glottal stop.
+    - Before a vowel, if the word starts with a vowel.
+    - By adding in in using ['] in between vowels or at the end of a word with a vowel
 
-- If it's how the word is pronounced
-- If the word starts with a vowel
-- By adding in in using ['] in between vowels or at the end of a word with a vowel
-<p align=center>
 ![image](https://github.com/user-attachments/assets/2da7e171-e470-4cb3-baa4-86a0fe83da10)
 ![image](https://github.com/user-attachments/assets/409ac355-4859-4b55-aaeb-43e40f561cd0)
 ![image](https://github.com/user-attachments/assets/7d82ba7a-d558-43ce-a88d-c7be897c0237)
-</center>
+
