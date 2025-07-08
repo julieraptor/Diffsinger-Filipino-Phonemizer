@@ -50,7 +50,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | S| s | S | |
 | SY| ʃ | SH |
 | T| t | T | Non-aspirated |
-| TH| a | TH |
+| TH| θ | TH |
 | TS| tʃ | CH |
 | U| u | UW |
 | V| v | V |
