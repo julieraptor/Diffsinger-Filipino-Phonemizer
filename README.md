@@ -135,8 +135,8 @@ Glottal stops are inserted depending on certain conditions:
 
 Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
 
-### If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
-<br>
+**If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
+**<br>
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
 
 <p align="center">
