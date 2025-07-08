@@ -32,6 +32,7 @@ The language is generally pattern-based. Therefore, it will follow these rules:
 Dipthongs are separated into two characters.
 
 **Examples:**
+<br>
 [AY] -> [A Y] ([A J] in the g2p)
 <br>
 [OU] -> [O U]
