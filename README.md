@@ -29,7 +29,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | A| a | AH |  |
 | B| b | B |  |
 | D| d | D |  |
-| DX| r |  DX |Can be substituted for IPA [r] |
+| DX| ɾ | DX |Can be substituted for IPA [r] |
 | DY| dʒ | JH |  |
 | E| ɛ | EH |  |
 | F| f | F |  |
@@ -45,7 +45,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | NG| ŋ | NG | |
 | NY| ɲ | [N] [Y] | Represented as ñ. Use phonetic hints for IPA [n j] if not available
 | O| o | OW | |
-| P| p | P  | Non-aspirated |
+| P| p | P | Non-aspirated |
 | Q| a | Q | Glottal stop |
 | S| s | S | |
 | SY| ʃ | SH |
