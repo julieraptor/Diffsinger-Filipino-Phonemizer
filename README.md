@@ -30,6 +30,11 @@ Special thanks to Hammy (my partner) for Python tool development for dictionary 
 
 The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
 
+# How to install
+
+- Drag and drop `DiffsingerFilipinoPhonemizer_julieraptor.dll` into OpenUTAU. It should install automatically. 
+- Re-open OpenUTAU and confirm it is installed by checking the phonemizer list in <b>FIL > DIFFS FIL > DiffSinger Filipino Phonemizer (Contributed by julieraptor).</b>
+
 # Phoneme Chart
 | Phoneme | IPA | Arpabet | Notes
 | ---  | --- | --- | --- | 
