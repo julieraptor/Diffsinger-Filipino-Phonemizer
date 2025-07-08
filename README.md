@@ -68,6 +68,7 @@ The g2p doesn't account for unique pronunciations of words in other languages.
 For example, English words will be pronounced syllabically instead of being pronounced with an accent.
 
 | Word | Usual pronunciation (IPA/ARPA) | G2P separation | G2P Pron. (IPA) | G2P Pron. (Arpabet)
+<p align="center">
 | ---  | --- | --- | --- | --- |
 | BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I DX TH D A J | bɪrθdaɪ | B IY R TH D AY
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
@@ -82,7 +83,7 @@ For example, English words will be pronounced syllabically instead of being pron
 ![image](https://github.com/user-attachments/assets/03ee3f4f-8717-4f0c-ad56-eeaf553d1085)
 
 *Example with G2P subsituted with Nishiren's Arpasing-based configuration*
-
+</p>
 
 ## Dipthongs
 Dipthongs are not combined. They are separated into two characters.
@@ -91,8 +92,9 @@ Dipthongs are not combined. They are separated into two characters.
 <br>
 - aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c)
+</p>
 
 ## Glottal stops
 Glottal stops are inserted depending on certain conditions:
@@ -103,7 +105,9 @@ Glottal stops are inserted depending on certain conditions:
      - **Example:** AALIS -> [Q A Q A L I S], INIIBIG -> [Q I N I Q I B I H]
    - By adding ['] at the end of a word ending with a vowel.
 
+<p align="center">
 ![image](https://github.com/user-attachments/assets/18a1e305-b01d-4f47-8d33-b0d5fec20f19)
+</p>
 
      
 ## [ll] becomes [L J]
@@ -113,10 +117,10 @@ Consistent with Filipino pronunciation, words containing the phoneme [ll] will b
 ### If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
 <br>
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
-
+</p>
 
 
 ## Omit glottal stop before a word starting with a vowel.
@@ -125,9 +129,10 @@ By default, words starting with a vowel begin with a glottal stop.
 <br>
 ### If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
 
+<p align="center">
 ![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
-
+</p>
 
 # Disclaimer
 - julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the phonemizer.
