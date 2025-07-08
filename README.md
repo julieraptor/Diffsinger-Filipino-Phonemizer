@@ -78,7 +78,7 @@ Dipthongs are not combined. They are separated into two characters.
 - aɪ [AY] -> [A J]
 - oʊ [OU] -> [O U]
 
-![image](https://github.com/user-attachments/assets/0b6686f9-1549-4424-8700-7a4e05ac4820)
+![image](https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c)
 
 ### Glottal stops
 Glottal stops are inserted depending on certain conditions:
@@ -101,6 +101,7 @@ If you do not want the word to follow the Filipino pronunciation, substitute [l]
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
 
 ![image](https://github.com/user-attachments/assets/0d2ad88b-7a35-4d6d-a47a-45264a19f774)
+
 
 ### Omit glottal stop before a word starting with a vowel.
 
