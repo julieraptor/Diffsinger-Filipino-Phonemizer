@@ -57,7 +57,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | W| w | W |
 | Z| z | Z |
 
-# Information
+# Usage
 
 ### The language is generally pattern-based. 
 
@@ -115,5 +115,13 @@ If you do not want the glottal stop, simply drag the glottal stop phoneme all th
 
 ![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
 
+# Disclaimer
+- julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the phonemizer.
+- julieraptor holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the phonemizer.
+- julieraptor isn't responsible for any legal issues created from the use of the phonemizer.
 
+# 【CONTACT INFORMATION】
+- **Site:** [website](https://julieraptor.carrd.co)
+- **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
+ - **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
 
