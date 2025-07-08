@@ -24,11 +24,12 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 ## 【 How To Use 】 
 
-### Words are pronounced how it is written.
+### The language is generally pattern-based. 
 
-The language is generally pattern-based. Therefore, it will follow these rules:
+The g2p doesn't account for unique pronunciations of words in other languages.
+<p>Therefore, it will follow these rules:
 
-#### Dipthongs
+### Dipthongs
 Dipthongs are separated into two characters.
 
 **Examples:**
@@ -37,7 +38,7 @@ Dipthongs are separated into two characters.
 <br>
 [OU] -> [O U]
 
-#### Glottal stops
+### Glottal stops
 Glottal stops are inserted depending on certain conditions
    - If the word is pronounced with a glottal stop.
    - Before a vowel, if the word starts with a vowel.
