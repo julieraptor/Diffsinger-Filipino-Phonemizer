@@ -81,13 +81,16 @@ For example, English words will be pronounced syllabically instead of being pron
 
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5"><br>
-<i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
+<i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 
 <img src ="https://github.com/user-attachments/assets/ce8c2032-230f-4589-9ff0-b72515fd413b"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 </p>
 
 ### To get the desired spelling, you may have to write the word how it should be pronounced.
+
+A tip is to write the word syllabically.
+
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/03ee3f4f-8717-4f0c-ad56-eeaf553d1085"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
