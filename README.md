@@ -5,7 +5,7 @@
 
 ### Purpose
 The Diffsinger Tagalog/Filipino Phonemizer was developed to support standardized Tagalog (Filipino) for Diffsinger voice databases using G2P (grapheme to phoneme). 
-<br>
+<p>
 Theoretically, it could support other languages in the Philippines (Ilokano, Cebuano, etc.) and other Malayo-Polynesian languages (like Indonesian) with similar pronunciation.
 
 <p align="center">
@@ -82,7 +82,9 @@ For example, English words will be pronounced syllabically instead of being pron
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
+</p>
 
+<p align="center">
 <img src ="https://github.com/user-attachments/assets/ce8c2032-230f-4589-9ff0-b72515fd413b"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
 </p>
