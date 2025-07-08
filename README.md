@@ -28,14 +28,18 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 The language is generally pattern-based. Therefore, it will follow these rules:
 
-#### Dipthongs are separated by character
+#### Dipthongs
+Dipthongs are separated into two characters.
 
-#### Glottal stops are inserted depending on certain conditions
-    - If the word is pronounced with a glottal stop.
-    - Before a vowel, if the word starts with a vowel.
-    - By adding in in using ['] in between vowels or at the end of a word with a vowel
+**Examples:**
+[AY] -> [A Y] ([A J] in the g2p)
+[OU] -> [O U]
 
-![image](https://github.com/user-attachments/assets/2da7e171-e470-4cb3-baa4-86a0fe83da10)
-![image](https://github.com/user-attachments/assets/409ac355-4859-4b55-aaeb-43e40f561cd0)
-![image](https://github.com/user-attachments/assets/7d82ba7a-d558-43ce-a88d-c7be897c0237)
+#### Glottal stops
+Glottal stops are inserted depending on certain conditions
+   - If the word is pronounced with a glottal stop.
+   - Before a vowel, if the word starts with a vowel.
+   - Between two consecutive of the same vowel.
+   - By adding ['] in between vowels
+   - By adding ['] at the end of a word ending with a vowel.
 
