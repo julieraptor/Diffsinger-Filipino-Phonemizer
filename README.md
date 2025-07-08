@@ -59,7 +59,9 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 # Usage
 
-## The language is generally pattern-based. 
+Follow this guide to learn how to use the Diffsinger Filipino Phonemizer.
+
+## Words are pronounced how it is spelled.
 
 The g2p doesn't account for unique pronunciations of words in other languages.
 <p>
@@ -73,7 +75,12 @@ For example, English words will be pronounced syllabically instead of being pron
 ![image](https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 
-![image](https://github.com/user-attachments/assets/28068cdd-77a1-4c02-86da-89b941c4559b)
+![image](https://github.com/user-attachments/assets/ce8c2032-230f-4589-9ff0-b72515fd413b)
+*Example with G2P subsituted with Nishiren's Arpasing-based configuration*
+
+### To get the desired spelling, you may have to write the word how it should be pronounced.
+![image](https://github.com/user-attachments/assets/03ee3f4f-8717-4f0c-ad56-eeaf553d1085)
+
 *Example with G2P subsituted with Nishiren's Arpasing-based configuration*
 
 
@@ -103,7 +110,7 @@ Glottal stops are inserted depending on certain conditions:
 
 Consistent with Filipino pronunciation, words containing the phoneme [ll] will be converted to [L J]. Most of these words come from Spanish.
 
-If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
+### If you do not want the word to follow the Filipino pronunciation, substitute [l] for [y] when writing the word.
 <br>
 **Example:** amarillo -> [Q A M A R I L J O], amariyo -> [Q A M A R I J O]
 
@@ -114,7 +121,7 @@ If you do not want the word to follow the Filipino pronunciation, substitute [l]
 
 By default, words starting with a vowel begin with a glottal stop.
 <br>
-If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
+### If you do not want the glottal stop, simply drag the glottal stop phoneme all the way next to the following vowel.
 
 ![image](https://github.com/user-attachments/assets/5223e09d-a913-4dd5-bf61-dee43113dab7)
 
@@ -126,5 +133,5 @@ If you do not want the glottal stop, simply drag the glottal stop phoneme all th
 # 【CONTACT INFORMATION】
 - **Site:** [website](https://julieraptor.carrd.co)
 - **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
- - **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
+- **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
 
