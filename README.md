@@ -68,11 +68,10 @@ The g2p doesn't account for unique pronunciations of words in other languages.
 For example, English words will be pronounced syllabically instead of being pronounced with an accent.
 
 | Word | Usual pronunciation (IPA/ARPA) | G2P separation | G2P Pron. (IPA) | G2P Pron. (Arpabet)
-<p align="center">
 | ---  | --- | --- | --- | --- |
 | BIRTHDAY | bɜːtdeɪ (B EH R T D E Y) | B I DX TH D A J | bɪrθdaɪ | B IY R TH D AY
 | CONFIRMAR | kumpˈiɾma (K UW M P IY R M A)| K O N F I DX M A R | konfiɾmaɾ | K OW N F IY R M AA R
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/707682c9-0193-4776-b6a8-5f3c4a56c4f5)
 *Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN*
 
