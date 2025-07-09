@@ -32,6 +32,8 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 
 # How to install
 
+- Add `dsdict-fil.yaml` to your Diffsinger of choice.
+- Be sure to edit the entries and replacements of phonemes according to your Diffsinger voice database.
 - Drag and drop `DiffsingerFilipinoPhonemizer_julieraptor.dll` into OpenUTAU. It should install automatically. 
 - Re-open OpenUTAU and confirm it is installed by checking the phonemizer list in <b>FIL > DIFFS FIL > DiffSinger Filipino Phonemizer (Contributed by julieraptor).</b>
 
@@ -58,7 +60,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | NY| ɲ | [N] [Y] | Represented as ñ. Use phonetic hints for IPA [n j] if not available
 | O| o | OW | |
 | P| p | P | Non-aspirated |
-| Q| a | Q | Glottal stop |
+| Q| ʔ | Q | Glottal stop |
 | S| s | S | |
 | SY| ʃ | SH |
 | T| t | T | Non-aspirated |
