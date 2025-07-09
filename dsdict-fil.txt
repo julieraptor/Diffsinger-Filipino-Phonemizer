@@ -1,0 +1,39 @@
+entries: # PLEASE CHANGE ACCORDING TO YOUR DIFFSINGER
+- {grapheme: LIEE, phonemes: [l, j, e]}
+- {grapheme: openutau, phonemes: [cl, o, p, e, n, cl, u, t, a, cl, u]}
+- {grapheme: diffsinger, phonemes: [d, i, f, s, i, ng, e, r]}
+
+# unique words - PLEASE CHANGE ACCORDING TO YOUR DIFFSINGER
+- {grapheme: ng, phonemes: [n, a, ng]}
+- {grapheme: nga, phonemes: [ng, a, cl]}
+- {grapheme: mga, phonemes: [m, a, ng, a]}
+
+replacements:
+- {from: a, to: a} # en/aa
+- {from: e, to: e} # en/eh
+- {from: i, to: i} # en/iy
+- {from: o, to: o} # en/ow
+- {from: u, to: u} # en/uw
+- {from: b, to: b}
+- {from: d, to: d}
+- {from: dy, to: dy} # en/jh
+- {from: f, to: f}
+- {from: g, to: g}
+- {from: h, to: h} # es/h or en/g
+- {from: j, to: j} # en/y
+- {from: k, to: k}
+- {from: l, to: l}
+- {from: m, to: m}
+- {from: n, to: n}
+- {from: ng, to: ng}
+- {from: ny, to: ny} # es/ny, ñ
+- {from: p, to: p}
+- {from: q, to: q} # glottal stop (cl)
+- {from: dx, to: dx} # tapped r (es/r) is best
+- {from: s, to: s}
+- {from: sy, to: sy} # en/sh
+- {from: t, to: t}
+- {from: th, to: th}
+- {from: ts, to: ts} # en/ch
+- {from: w, to: w}
+- {from: v, to: v}
