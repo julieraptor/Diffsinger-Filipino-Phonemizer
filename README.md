@@ -1,4 +1,4 @@
-# DiffsingerFilipinoPhonemizer
+# Diffsinger Filipino Phonemizer [DIFFS FIL]
 *A Diffsinger Tagalog/Filipino g2p phonemizer for OpenUTAU*
  
 ## 【 Information 】 
