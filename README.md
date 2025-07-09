@@ -30,14 +30,14 @@ Special thanks to Hammy (my partner) for Python tool development for dictionary 
 
 The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wikipron for Tagalog](https://github.com/CUNY-CL/wikipron/tree/master).
 
-# How to install
+# 【 How to install 】
 
 - Add `dsdict-fil.yaml` to your Diffsinger of choice.
 - Be sure to edit the entries and replacements of phonemes according to your Diffsinger voice database.
 - Drag and drop `DiffsingerFilipinoPhonemizer_julieraptor.dll` into OpenUTAU. It should install automatically. 
 - Re-open OpenUTAU and confirm it is installed by checking the phonemizer list in <b>FIL > DIFFS FIL > DiffSinger Filipino Phonemizer (Contributed by julieraptor).</b>
 
-# Phoneme Chart
+# 【 Phoneme Chart 】
 | Phoneme | IPA | Arpabet | Notes
 | ---  | --- | --- | --- | 
 | A| a | AH |  |
@@ -71,7 +71,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | W| w | W |
 | Z| z | Z |
 
-# Usage
+# 【 Usage 】
 
 Follow this guide to learn how to use the Diffsinger Filipino Phonemizer.
 
@@ -157,12 +157,12 @@ By default, words starting with a vowel begin with a glottal stop.
 <i>Example with G2P subsituted with LIEE's configuration using PixPrucer's Megamodel Version: v2.8 MM SH LN</i>
 </p>
 
-# Disclaimer
+# 【 Disclaimer 】
 - julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the phonemizer.
 - julieraptor holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the phonemizer.
 - julieraptor isn't responsible for any legal issues created from the use of the phonemizer.
 
-# 【CONTACT INFORMATION】
+# 【 CONTACT INFORMATION 】
 - **Site:** [website](https://julieraptor.carrd.co)
 - **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
 - **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
