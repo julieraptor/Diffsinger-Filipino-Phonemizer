@@ -33,7 +33,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 # 【 How to install 】
 
 - Add `dsdict-fil.yaml` to your Diffsinger of choice.
-- Be sure to edit the entries and replacements of phonemes according to your Diffsinger voice database.
+- <b>IMPORTANT: </b>Be sure to edit the entries and replacements of phonemes in dsdict-fil.yaml according to your Diffsinger voice database.
 - Drag and drop `DiffsingerFilipinoPhonemizer_julieraptor.dll` into OpenUTAU. It should install automatically. 
 - Re-open OpenUTAU and confirm it is installed by checking the phonemizer list in <b>FIL > DIFFS FIL > DiffSinger Filipino Phonemizer (Contributed by julieraptor).</b>
 
@@ -53,7 +53,7 @@ The dictionary this phonemizer was trained on was sourced heavily from [CUNY Wik
 | I| i | IY |  |
 | J| j | Y |  |
 | K| k | K | Non-aspirated |
-| L| l | L | Laminal denti-alveolar (NOT "dark L") |
+| L| l | L | Tapped L/Laminal denti-alveolar (NOT "dark L") |
 | M| m | M | |
 | N| n | N | |
 | NG| ŋ | NG | |
