@@ -116,6 +116,7 @@ Dipthongs are not combined. They are separated into two characters.
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/2dd56a02-1f9f-4c6d-8c7c-be0cab4f045c"><br>
 <i>Example with G2P subsituted with Nishiren's Arpasing-based configuration</i>
+Word: lumalangoy [l uw m aa l aa ng ow y]
 </p>
 
 ## Glottal stops
